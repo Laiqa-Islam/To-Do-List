@@ -51,7 +51,7 @@ Now you can access the application at `http://127.0.0.1:8000`.
 
 - Laravel (PHP framework)
 - MySQL (Database)
-- Tailwind CSS (Styling)
+- Bootstrap (Styling)
 - JavaScript (Frontend functionality)
 
 ## Contributing
