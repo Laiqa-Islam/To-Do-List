@@ -1,0 +1,33 @@
+.section-title-hr {
+    width: 175px;
+    height: 1px;
+    border: 1px solid rgb(255, 111, 0);
+    background-color: rgb(255, 111, 0);
+    display: block;
+  }
+  .white-hr {
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    display: block;
+  }
+
+  .gradient-custom-3 {
+    /* fallback for old browsers */
+    background: #212529;
+    
+    
+    }
+    .gradient-custom-4 {
+    /* fallback for old browsers */
+    background: #212529;
+    
+   
+    }
+
+    .completed{
+      text-decoration: line-through;
+    }
+    
+    .complete{
+      text-decoration: line-through;
+    }
